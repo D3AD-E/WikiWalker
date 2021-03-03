@@ -8,4 +8,8 @@
  - HtmlAgilityPack
  
 ## Screenshots 
+Example of input 
+```cs
+var path = await Walker.GetPathAsync(@"Minecraft", @"C_Sharp_(programming_language)");
+```
 ![alt text](https://github.com/D3AD-E/WikiWalker/blob/master/Pic1.png?raw=true)
